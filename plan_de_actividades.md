@@ -23,3 +23,7 @@ Actividades principales
    Fecha: 28 de noviembre de 2025  
    Responsable: Anyi Ultengo  
    Entregable: Documentación completa y repositorio final
+   
+Durante el desarrollo del proyecto se realizará una revisión semanal de los avances en cada actividad, asegurando el cumplimiento de los plazos definidos y la calidad del producto.
+
+Las reuniones de control permitirán identificar riesgos y realizar los ajustes necesarios al plan de trabajo.

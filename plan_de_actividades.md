@@ -21,7 +21,7 @@ Actividades principales
 
 5. Documentación y entrega final
    Fecha: 28 de noviembre de 2025  
-   Responsable: Anyi Ultengo  
+   Responsable: Carolina Ultengo  
    Entregable: Documentación completa y repositorio final
    
 Durante el desarrollo del proyecto se realizará una revisión semanal de los avances en cada actividad, asegurando el cumplimiento de los plazos definidos y la calidad del producto.
